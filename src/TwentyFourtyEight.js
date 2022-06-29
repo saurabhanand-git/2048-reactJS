@@ -694,7 +694,7 @@ class TwentyFourtyEight extends Component {
           </ScoreContainer>
         </ParentContainer>
         {!this.state.focus && (
-          <p style={{ textAlign: "center" }}>
+          <p style={{ textAlign: "center" , color:"#fff"}}>
             Tap on any block to continue playing
           </p>
         )}

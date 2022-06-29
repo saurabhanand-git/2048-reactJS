@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import Nav from "./Nav";
 // import App from './App';
 // import TicTacToe from './TicTacToe'
 import TwentyFourtyEight from "./TwentyFourtyEight"
@@ -8,6 +9,7 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
+    <Nav/>
     <TwentyFourtyEight/>
    </React.StrictMode>
    , 
