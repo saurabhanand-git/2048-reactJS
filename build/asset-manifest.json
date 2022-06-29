@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/2048-reactJS/static/css/main.1469b127.chunk.css",
+    "main.js": "/2048-reactJS/static/js/main.6a3fc371.chunk.js",
+    "main.js.map": "/2048-reactJS/static/js/main.6a3fc371.chunk.js.map",
+    "runtime-main.js": "/2048-reactJS/static/js/runtime-main.6abf9090.js",
+    "runtime-main.js.map": "/2048-reactJS/static/js/runtime-main.6abf9090.js.map",
+    "static/js/2.860ca6c0.chunk.js": "/2048-reactJS/static/js/2.860ca6c0.chunk.js",
+    "static/js/2.860ca6c0.chunk.js.map": "/2048-reactJS/static/js/2.860ca6c0.chunk.js.map",
+    "index.html": "/2048-reactJS/index.html",
+    "precache-manifest.d2f8aa9ae5536e4f43b4002b7d337b1d.js": "/2048-reactJS/precache-manifest.d2f8aa9ae5536e4f43b4002b7d337b1d.js",
+    "service-worker.js": "/2048-reactJS/service-worker.js",
+    "static/css/main.1469b127.chunk.css.map": "/2048-reactJS/static/css/main.1469b127.chunk.css.map",
+    "static/js/2.860ca6c0.chunk.js.LICENSE.txt": "/2048-reactJS/static/js/2.860ca6c0.chunk.js.LICENSE.txt",
+    "static/media/TwentyFourtyEight.css": "/2048-reactJS/static/media/undo.e263bfe9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6abf9090.js",
+    "static/js/2.860ca6c0.chunk.js",
+    "static/css/main.1469b127.chunk.css",
+    "static/js/main.6a3fc371.chunk.js"
+  ]
+}
